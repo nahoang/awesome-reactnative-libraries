@@ -9,7 +9,7 @@
 |react-native-material-ripple         |Base component for touchable elements    ![enter image description here](https://cloud.githubusercontent.com/assets/2055622/24832328/459afaf0-1cb6-11e7-975d-accedb67a716.gif)  |https://github.com/n4kz/react-native-material-ripple     |
 |react-native-vector-icons       |Perfect for buttons, logos and nav/tab bars. Easy to extend, style and integrate into your project.          |https://github.com/oblador/react-native-vector-icons    |
 |react-native-material-dropdown         |Material dropdown with consistent behaviour on iOS and Android ![enter image description here](https://user-images.githubusercontent.com/2055622/27727487-591a807a-5d87-11e7-89f6-f31a442db0c6.gif )| https://github.com/n4kz/react-native-material-dropdown    |
-|...         |...          |...      |
+|react-native-material-textfield      | Material texfield with consistent behaviour on iOS and Android ![enter image description here](https://cloud.githubusercontent.com/assets/2055622/24325711/eaa4ff08-11af-11e7-8550-2504c1580979.gif )          |https://github.com/n4kz/react-native-material-textfield     |
 |...         |...          |...      |
 |...         |...          |...      |
 |...         |...          |...      |
