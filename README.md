@@ -11,8 +11,8 @@
 |react-native-material-dropdown         |Material dropdown with consistent behaviour on iOS and Android ![enter image description here](https://user-images.githubusercontent.com/2055622/27727487-591a807a-5d87-11e7-89f6-f31a442db0c6.gif )| https://github.com/n4kz/react-native-material-dropdown    |
 |react-native-material-textfield      | Material texfield with consistent behaviour on iOS and Android ![enter image description here](https://cloud.githubusercontent.com/assets/2055622/24325711/eaa4ff08-11af-11e7-8550-2504c1580979.gif )          |https://github.com/n4kz/react-native-material-textfield     |
 |react-native-reanimated-bottom-sheet      |Highly configurable component imitating native bottom sheet behavior, with fully native 60 FPS animations!    ![enter image description here](https://github.com/osdnk/react-native-reanimated-bottom-sheet/blob/master/gifs/1.gif)      |https://github.com/osdnk/react-native-reanimated-bottom-sheet      |
-|...         |...          |...      |
-|...         |...          |...      |
+|react-native-datetimepicker         |React Native date & time picker component for iOS, Android and Windows.   ![enter image description here](https://github.com/react-native-datetimepicker/datetimepicker/blob/master/docs/images/android_date.png)       |https://github.com/react-native-datetimepicker/datetimepicker      |
+|react-native-tab-view         |A cross-platform Tab View component for React Native.    ![enter image description here](https://raw.githubusercontent.com/satya164/react-native-tab-view/master/demo/demo.mp4)          |https://github.com/satya164/react-native-tab-view     |
 |...         |...          |...      |
 |...         |...          |...      |
 |...         |...          |...      |
