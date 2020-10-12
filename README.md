@@ -14,8 +14,12 @@
 |react-native-datetimepicker         |React Native date & time picker component for iOS, Android and Windows.   ![enter image description here](https://github.com/react-native-datetimepicker/datetimepicker/blob/master/docs/images/android_date.png)       |https://github.com/react-native-datetimepicker/datetimepicker      |
 |react-native-tab-view         |A cross-platform Tab View component for React Native.    ![enter image description here](https://raw.githubusercontent.com/satya164/react-native-tab-view/master/demo/demo.mp4)          |https://github.com/satya164/react-native-tab-view     |
 |react-native-snackbar         |Material Design "Snackbar" component for Android and iOS. Supports custom colors, fonts, and languages.   [enter image description here](https://github.com/cooperka/react-native-snackbar/blob/master/example/screenshots/snackbar.png)       |https://github.com/cooperka/react-native-snackbar      |
-|...         |...          |...      |
-|...         |...          |...      |
-|...         |...          |...      |
+|react-native-floating-action         |Material design action button for React Native   [enter image description here](https://user-images.githubusercontent.com/2914973/37876447-c5f553d0-304c-11e8-8c4f-7d6ef97d752c.gif)        |https://github.com/santomegonzalo/react-native-floating-action      |
+| react-native-extra-dimensions-android        |There is currently a bug in React Native where Dimensions.get('window').height sometimes returns the wrong value. This module allows you to access additional display metrics on Android devices. (RN 0.57.0+)
+Actual width and height of the screen (including elements such as soft menu bar)
+Soft menu height
+Status bar height
+Smart bar height (MeiZu) [enter image description here](https://github.com/Sunhat/react-native-extra-dimensions-android/blob/master/demo.png)         |https://github.com/Sunhat/react-native-extra-dimensions-android      |
+|react-native-modal         |An enhanced, animated and customizable react-native modal.   [enter image description here](https://github.com/react-native-community/react-native-modal/blob/master/.github/images/example-modal.gif)         |https://github.com/react-native-community/react-native-modal      |
 |...         |...          |...      |
 |...         |...          |...      |
